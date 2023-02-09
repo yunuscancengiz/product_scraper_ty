@@ -1,0 +1,1 @@
+kargo=6.5,kar=7,komisyon(yüzde)=8,affiliat(yüzde)=10,
